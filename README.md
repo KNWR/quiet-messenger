@@ -1,6 +1,6 @@
 # Quiet Facebook
 
-![](https://raw.githubusercontent.com/knwr/quiet-messenger/master/screenshot-1.jpg)
+![](https://raw.githubusercontent.com/knwr/quiet-messenger/master/screenshot-1.png)
 ![](https://raw.githubusercontent.com/knwr/quiet-messenger/master/screenshot-2.jpg)
 
 ## Installation
