@@ -1,0 +1,11 @@
+# Quiet Facebook
+
+![](https://raw.githubusercontent.com/maxfriedrich/quiet-messenger/master/screenshot.png)
+
+
+## Installation
+
+- **Chrome and Firefox:** Install the stylesheet [via Userstyles.org, using the Stylish extension](http://userstyles.org/styles/101805/quiet-facebook).
+- **Safari:** Clone this repository or download the ZIP to disk, open Safari Preferences, Advanced, select downloaded `quiet-facebook.css` in Style sheet dropdown.
+
+Inspired by Max Friedrich's <a href="https://github.com/maxfriedrich/quiet-facebook">quiet-facebook</a>.
