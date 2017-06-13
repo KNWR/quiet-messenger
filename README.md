@@ -1,7 +1,10 @@
 # Quiet Facebook
 
-![](https://raw.githubusercontent.com/knwr/quiet-messenger/master/screenshot-1.png = 640x394)
+![](https://raw.githubusercontent.com/knwr/quiet-messenger/master/screenshot-1.png)
 ![](https://raw.githubusercontent.com/knwr/quiet-messenger/master/screenshot-2.png)
+
+##Usage
+The sidebars and profile images are hidden. Mouse over the far left of the page to see the left sidebar. Same deal for the right.
 
 ## Installation
 
