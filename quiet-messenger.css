@@ -1,5 +1,4 @@
 #facebook div[class*="header"],
-#facebook div[class*="page"],
 ._3400, /* the app symbol */
 ._3403, /*sign in with facebook ... */
 .uiInputLabel.clearfix, /* stay signed in */
@@ -10,13 +9,18 @@
 	display: none !important;
 }
 
+#facebook div[class*="page"]{
+	visibility: hidden !important;
+}
+
 ._210j /*The log-in input area */{
 	height: 440px;
 }
 
 /*Logged in to messenger */
 
-._4ldz /*The photos on the left sidebar*/
+._4ldz, /*The photos on the left sidebar*/
+._210n /*hides the footer*/
  {
 	display: none !important;
 }
